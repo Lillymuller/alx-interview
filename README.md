@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Firest interview question always asked Pascal's Triangle
-=======
+First interview question always asked Pascal's Triangles
 Alx Interview questions
->>>>>>> d840c063aa1e992fe402d0f9d97775546f0a7b3f
